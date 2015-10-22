@@ -10,7 +10,9 @@ As a GIS professional, you may come accross having a need to utilize OSM data in
 QGIS 2.0 integrates OpenStreetMap import as a core functionality. To get OSM data:
 
 Menu "Vector -> Openstreetmap -> Load data" will connect to the OSM server and download data. You can skip this step if you already have a .osm XML file.
+
 "Import topology from an XML file" below will convert your .osm file into a spatialite database, and create a db connection.
+
 "Export topology to Spatialite" then allows you to open the database connection, select the type of data you want (points, lines, polygons) and choose tags to import. This creates a spatialite geometry layer that you can then add to your project via the "add a spatialite layer" menu.
 
 Note that this process imports raw OSM GIS data not any particular map style/symbology.
