@@ -24,7 +24,12 @@ Note that this process imports raw OSM GIS data not any particular map **style/s
 
 ##For Large areas
 
-###http://download.geofabrik.de/
+###geofabrik
+http://download.geofabrik.de/
+
+QGIS can open both .osm and osm.pbf files. Just click the 'Add vector data' button.
+
+For large datasets .osm and .osm.pbf files can be slow to work with, so you may want to add your data to a spatial database such as PostGIS or SpatialLite.
 
 ###HOT export tool
 
