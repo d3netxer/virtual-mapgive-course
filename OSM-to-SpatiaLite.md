@@ -7,4 +7,12 @@ format
 
 ex.
 
-`ogr2ogr -f SQLite cam1.sqlite /home/vagrant/Downloads/cameroon-latest.osm.pbf -dsco SPATIALITE=YES` 
+`ogr2ogr -f SQLite cam1.sqlite /home/vagrant/Downloads/cameroon-latest.osm.pbf`  
+
+you can then add it by clicking the 'Add Vector Layer' button in QGIS.
+
+However, you may not be able to add it by clicking on the 'add SpatiaLite Table' button. Add parameter to ogr2ogr utility -dsco "SPATIALITE=YES" then all SpatialLite parameters shall work as requested.
+
+ex.
+
+`ogr2ogr -f SQLite cam1.sqlite /home/vagrant/Downloads/cameroon-latest.osm.pbf -dsco SPATIALITE=YES`
