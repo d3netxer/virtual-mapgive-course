@@ -9,7 +9,7 @@ As a GIS professional, you may come accross having a need to utilize OSM data in
 
 -OpenStreetMap.org
 
-![img](https://cloud.githubusercontent.com/assets/2665840/10675703/316c40d0-78f1-11e5-96a6-99021f47468b.png)
+![OSM export](https://cloud.githubusercontent.com/assets/2665840/10675703/316c40d0-78f1-11e5-96a6-99021f47468b.png)
 
 ##For Large areas
 
