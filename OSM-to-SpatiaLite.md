@@ -6,4 +6,5 @@ format
 `ogr2ogr -f SQLite <filename>.sqlite <filename>.osm.pbf`
 
 ex.
+
 `ogr2ogr -f SQLite cam1.sqlite /home/vagrant/Downloads/cameroon-latest.osm.pbf -dsco SPATIALITE=YES` 
