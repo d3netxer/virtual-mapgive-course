@@ -24,6 +24,10 @@ Note that this process imports raw OSM GIS data not any particular map **style/s
 
 ##For Large areas
 
--manual download
+###http://download.geofabrik.de/
 
--HOT export tool
+###HOT export tool
+
+* You can only extract certain areas of the world
+* Interesting output formats such as shapefile, Garmin Map, OSMAnd OBF, and SQLite SQL
+
