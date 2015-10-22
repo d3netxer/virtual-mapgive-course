@@ -5,7 +5,8 @@ As a GIS professional, you may come accross having a need to utilize OSM data in
 
 ##For Small areas
 
-###QGIS 2: OpenStreetMap Vectors (http://wiki.openstreetmap.org/wiki/QGIS#QGIS2_OpenStreetMap_Vectors)
+###QGIS 2: OpenStreetMap Vectors 
+(source: http://wiki.openstreetmap.org/wiki/QGIS#QGIS2_OpenStreetMap_Vectors)
 
 QGIS 2.0 integrates OpenStreetMap import as a core functionality. To get OSM data:
 
