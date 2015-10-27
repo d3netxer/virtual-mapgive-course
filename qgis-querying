@@ -1,0 +1,6 @@
+
+
+
+SELECT *
+FROM points
+WHERE other_tags LIKE '%amenity%' AND other_tags LIKE '%hospitals%'
