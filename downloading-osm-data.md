@@ -1,5 +1,5 @@
 
-#OSM and QGIS
+#Downloading OSM data
 
 As a GIS professional, you may come accross having a need to utilize OSM data in a GIS software package. Today we will introduce some ways to do this using QGIS, one of the most popular free and open source GIS software packages! There are many qays to download OSM data, here are just a few:
 
