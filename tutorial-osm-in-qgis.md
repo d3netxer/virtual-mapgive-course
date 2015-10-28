@@ -18,4 +18,6 @@ Query only the hospitals in Cameroon using the DB Manager in QGIS. [Instructions
 
 Load a new layer from your results. You will need to make sure you including the 'GEOMETRY' column in your selection or all of the columns. 
 
-Save your new hospital layer and submit it. How many hospitals did your find? Do you think we found all of the hospitals in OSM for Cameroon? If not, what else could we have done?
+Save your new hospital layer and submit to instructor and answer the following questions.
+
+How many hospitals did your find? Do you think we found all of the hospitals in OSM for Cameroon? If not, what else could we have done?
