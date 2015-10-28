@@ -20,6 +20,6 @@ If you have your data in a database such as PostGIS or SpatiaLite, you can also 
 FROM points
 WHERE (other_tags LIKE '%amenity%' AND other_tags LIKE '%hospital%')`
 
-For this SQL statement, only the osm_id,name, and other_tags columns will be displayed in the returned rows. It will select all rows from the points table that have both 'amenity' and 'hospital' in the 'other_tags' column.
+For this SQL statement, only the osm_id,name, and other_tags columns will be displayed in the returned rows. It will select all rows from the points table that have both 'amenity' and 'hospital' in the other_tags column.
 
 Check out this [CartoDB tutorial](http://academy.cartodb.com/courses/04-sql-postgis/lesson-1.html) to learn more about writing SQL. 
