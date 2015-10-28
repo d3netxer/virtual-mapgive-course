@@ -12,7 +12,7 @@ You can then enter an expression. The example shown above queries all rows that 
 
 ##DB Manager
 
-If you have your data in a database such as PostGIS or SpatiaLite, you can also go to your 'Database' in your top menu and open 'DB Manager'. Select you database then open the SQL Window to enter queries.
+If you have your data in a database such as PostGIS or SpatiaLite, you can also go to your 'Database' in your top menu and open 'DB Manager'. Select your database then open the SQL Window to enter queries.
 
 ![sql_query](https://cloud.githubusercontent.com/assets/2665840/10792843/53e954e2-7d86-11e5-9ec2-448762fb7d56.png)
 
