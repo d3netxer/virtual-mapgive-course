@@ -13,14 +13,13 @@ Click the 'Select features using an expression button' and read the Select by Ex
 
 After features are selected, in the Layers table of contents right-click the points layer and click on 'Save As'
 
+![img](https://github.com/d3netxer/virtual-mapgive-course/blob/master/save-shp-sel-features.jpg)
 
-
+Save your new file and make sure the 'Save only selected features' checkbox is selected
 
 ##Step 3:
 
-Load a new layer from your results. You will need to make sure you including the 'GEOMETRY' column in your selection or all of the columns. 
-
-Save your new hospital layer and submit to instructor along with answers to the following questions.
+Take a screenshot of your new hospital layer and submit to instructor along with answers to the following questions.
 
 How many hospitals did you find? Do you think we found all of the hospitals in OSM for Cameroon? If not, what else could we have done?
 
