@@ -2,7 +2,7 @@
 
 ##Step 1:
 
-Download the latest OSM data for Cameroon using Geofabrik. [Instructions](https://github.com/d3netxer/virtual-mapgive-course/blob/master/downloading-osm-data.md)
+Download the latest OSM data for Cameroon using Geofabrik. [Instructions](https://github.com/d3netxer/virtual-mapgive-course/blob/master/downloading-osm-data.md) (scroll down to the geofabrik section)
 
 ##Step 2:
 
