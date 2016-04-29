@@ -1,4 +1,4 @@
-#Tutorial: Getting OSM data into QGIS
+#Tutorial: Getting OSM data into QGIS with SpatialLite
 
 ##Step 1:
 
