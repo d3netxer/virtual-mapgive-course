@@ -6,6 +6,8 @@ Download the latest OSM data for Cameroon using Geofabrik. [Instructions](https:
 
 ##Step 2:
 
+Open QGIS and load the osm.pbf file, you only need to load the points. Open the attribute table of the layer. 
+
 Query only the hospitals in Cameroon using the DB Manager in QGIS. [Instructions](https://github.com/d3netxer/virtual-mapgive-course/blob/master/qgis-querying.md)
 
 ##Step 3:
