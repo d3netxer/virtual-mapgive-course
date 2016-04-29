@@ -20,4 +20,4 @@ Load a new layer from your results. You will need to make sure you including the
 
 Save your new hospital layer and submit to instructor along with answers to the following questions.
 
-How many hospitals did your find? Do you think we found all of the hospitals in OSM for Cameroon? If not, what else could we have done?
+How many hospitals did you find? Do you think we found all of the hospitals in OSM for Cameroon? If not, what else could we have done?
